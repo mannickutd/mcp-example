@@ -1,5 +1,6 @@
 # mcp-example
 Implementing mcp server to run python code within a sandboxed environment.
+https://ai.pydantic.dev/mcp/run-python/
 
 
 ## Install
